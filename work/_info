@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+dC:\Windows\System32
+vcomb1_Cherevatov
+I=B47^`;o4oo3I62VlZn5c0
+VAd^lS[7kB07BeXMlB`b@C2
+Z0 dC:\altera\91\modelsim_ase\examples
+w1775044422
+8C:/altera/91/modelsim_ase/examples/comb1.v
+FC:/altera/91/modelsim_ase/examples/comb1.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+ncomb1_@cherevatov
+!s100 K6]Vo9TfolAo195?e]6ol2
+!s85 0
+!s101 -O0
+vcomb2_Cherevatov
+!s100 [j855V`G7zm0ceR0gKI7@1
+IlJ]il>DLB_jUY<Kn[HZj13
+VkZER4ZhZ9W58S`Xe1RJ743
+Z4 dC:\altera\91\modelsim_ase\examples
+w1775044837
+8C:/altera/91/modelsim_ase/examples/comb2.v
+FC:/altera/91/modelsim_ase/examples/comb2.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+ncomb2_@cherevatov
+vEx2_OR
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+R4
+w1775041027
+8C:/altera/91/modelsim_ase/examples/Ex2_Cherevatov_OR.v
+FC:/altera/91/modelsim_ase/examples/Ex2_Cherevatov_OR.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@ex2_@o@r
+!s100 nRDmkFVK0BEch8[H[GDob0
+!s85 0
+!s101 -O0
+vhalf_add
+IKP<=>731GmcWRb:dbTK?b2
+VT3N=:RY>F4EPXIhhmNPK81
+R4
+w1774105321
+8C:/Users/ACER/Downloads/half_add_lab1.v
+FC:/Users/ACER/Downloads/half_add_lab1.v
+L0 6
+OV;L;10.1d;51
+r1
+31
+o-work work -O0
+!s100 F@e=;W6a>0n9glOnGH4VR0
+!s90 -reportprogress|300|-work|work|C:/Users/ACER/Downloads/half_add_lab1.v|
+!i10b 1
+!s85 0
+!s108 1774109564.427000
+!s107 C:/Users/ACER/Downloads/half_add_lab1.v|
+!s101 -O0
